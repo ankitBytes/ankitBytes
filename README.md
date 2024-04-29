@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Hey%20Everyone!&height=300&color=gradient&text=Input%20text"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
