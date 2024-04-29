@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
+
+<a href="www.linkedin.com/in/ankit-kumar-sahu" target="_blank">
+  <img src="https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon"/>
+</a>
