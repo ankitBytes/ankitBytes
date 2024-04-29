@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </p>
 
 <a href="www.linkedin.com/in/ankit-kumar-sahu" target="_blank">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
 </a>
