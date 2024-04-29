@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Hey Everyone!&height=300&color=gradient&text=Input%20text"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Hey%20Everyone!&height=300&color=gradient&text=Input%20text"/>
 </p>
