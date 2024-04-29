@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+<div class="tenor-gif-embed" data-postid="21370391" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/devoloper-gif-21370391">Devoloper GIF</a>from <a href="https://tenor.com/search/devoloper-gifs">Devoloper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
