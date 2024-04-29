@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Hey Everyone!&height=300&color=gradient&text=Input%20text"/>
+</p>
