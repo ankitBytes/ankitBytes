@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<img height=100 src="https://tenor.com/view/devoloper-gif-21370391" >
-
 
 
