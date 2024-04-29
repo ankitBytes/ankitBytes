@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
 
-<a href="www.linkedin.com/in/ankit-kumar-sahu" target="_blank">
+<div>
+<a href="www.linkedin.com/in/ankit-kumar-sahu" target="_blank" style="padding: '0 1rem">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
 </a>
 
@@ -28,5 +29,6 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/u/ankit_2025/" target="_blank">
   <img height="50" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"/>
 </a>
+</div>
 
 
