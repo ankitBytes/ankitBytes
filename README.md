@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://leetcode.com/u/ankit_2025/" target="_blank">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-64.png"/>
+  <img height="50" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"/>
 </a>
 
 
