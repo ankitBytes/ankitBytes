@@ -51,6 +51,10 @@ Looking ahead, I aspire to keep increasing my capabilities in web development an
 I'm usually open to networking and collaborating on thrilling projects. Feel free to reach out to me at sahuankitkumar60@gmail.Com to talk about potential opportunities or truly join. 🤝
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitBytes&layout=compact"/>
+</p>
+
 
 
 
