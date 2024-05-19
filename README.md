@@ -59,6 +59,8 @@ I'm usually open to networking and collaborating on thrilling projects. Feel fre
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitBytes&layout=compact&theme=tokyonight" />
 </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankitBytes&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
 
 
 
