@@ -54,7 +54,7 @@ I'm usually open to networking and collaborating on thrilling projects. Feel fre
 <br /> <br />
 
 <a href="https://github.com/ankitBytes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ankitBytes" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ankitBytes&theme=tokyonight" />
 </a>
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitBytes&layout=compact&theme=tokyonight" />
