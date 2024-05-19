@@ -28,8 +28,8 @@ jobs:
       # Commit and push the changes
       - name: Commit and Push changes
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "sahuankitkumar99@gmail.com"
+          git config --global user.name "Ankit"
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation"
           git push origin output --force
