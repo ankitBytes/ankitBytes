@@ -17,19 +17,40 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
 
-<div>
-<a href="www.linkedin.com/in/ankit-kumar-sahu" target="_blank">
-  <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
-</a>
+<h6>Hey there, I am Ankit Kumar Sahu, a passionate Computer Science final year student at Silicon University.</h6>
+<hr />
 
-<a href="https://twitter.com/Ankitkumarsa" target="_blank">
-  <img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-64.png"/>
-</a>
+<p>
+  🚀 Ankit Kumar Sahu - Aspiring Engineer & Full-Stack Web Developer
 
-<a href="https://leetcode.com/u/ankit_2025/" target="_blank">
-  <img height="30" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"/>
-</a>
-</div>
+👨‍🎓 Pursuing a Bachelor of Technology (BTech) degree at SIT, I am obsessed on engineering and web development. 🌐
+
+💼 Freelance Full-Stack Web Developer 💼
+
+As a committed and enthusiastic full-stack internet developer, I even have honed my talents in growing dynamic and user-pleasant websites. 💻 My freelance adventure has not only allowed me to use school room understanding in actual-global projects however also provided me with the possibility to collaborate with clients from numerous industries. 🌟
+
+🔧 Skills & Expertise 🔧
+
+I am properly-versed in a range of technologies and equipment, consisting of:
+
+->Front-give up: HTML, CSS, JavaScript, React.Js
+->Back-end: Node.Js, Express.Js
+->Databases: MongoDB, SQL
+->Version Control: Git
+->Problem Solving: Data Structures & Algorithms
+📚 Academic Pursuits 📚
+
+While I thrive inside the rapid-paced world of internet improvement, I am also dedicated to my educational journey. My BTech software at SIT BBSR has ready me with a robust basis in computer science and engineering principles. 📖
+
+🌟 Future Goals 🌟
+
+Looking ahead, I aspire to keep increasing my capabilities in web development and exploring new technologies. I am eager to contribute my knowledge to progressive initiatives, collaborate with like-minded professionals, and make a advantageous impact at the tech enterprise.
+
+📧 Let's Connect 📧
+
+I'm usually open to networking and collaborating on thrilling projects. Feel free to reach out to me at sahuankitkumar60@gmail.Com to talk about potential opportunities or truly join. 🤝
+</p>
+
 
 
 
