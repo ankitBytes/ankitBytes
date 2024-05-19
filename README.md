@@ -63,7 +63,21 @@ I'm usually open to networking and collaborating on thrilling projects. Feel fre
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitBytes&layout=compact&theme=tokyonight" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankitBytes&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+<br /> <br />
+<p>While working as a Freelancer, I got to know about so many ney things, like how we can utilize the component feature of react, how useState works, how we can host a webpage and many more. I learnt react while I got a job from a company reagrding a static webpage for their company.</p>
+
+<br />
+<p>Below is my first projects Glimpse and on clicking the image it will redirect you to the webpage</p>
+<br />
+
+
+<a href="https://github.com/ankitBytes/convoychat">
+  <img height=300 align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=ankitBytes" />
+</a>
+<a href="https://github.com/ankitBytes/convoychat">
+  <img height=200 align="center" src="https://stats.dooboo.io/api/github-trophies?login=ankitBytes" />
+</a>
 
 
 
