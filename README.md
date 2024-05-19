@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
 
-<h2>Hey there, I am Ankit Kumar Sahu, a passionate Computer Science final year student at Silicon University.</h2>
+<h2>Hey <span class="wave">👋</span> there, I am Ankit Kumar Sahu, a passionate Computer Science final year student at Silicon University.</h2>
 <hr />
 
 <p>
