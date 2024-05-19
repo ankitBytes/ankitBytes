@@ -69,12 +69,11 @@ I'm usually open to networking and collaborating on thrilling projects. Feel fre
 
 <br />
 <p>Below is my first projects Glimpse and on clicking the image it will redirect you to the webpage</p>
-<br />
-
-<a>
-  <img src=" />
+<a href="http://shree-shakti.com/" target="_blank">
+  <img src="shreeShakti.png" style="height: 400px; width: 800px" />
 </a>
 
+<br /> <br />
 
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=300 align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=ankitBytes" />
