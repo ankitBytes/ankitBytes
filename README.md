@@ -17,7 +17,11 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone!&textBg=false&animation=twinkling"/>
 </p>
 
-<h2> <img src="hello.svg" style="width: 100%"/> A passionate Computer Science final year student at Silicon University.</h2>
+
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+<h2>A passionate Computer Science final year student at Silicon University.</h2>
 <hr />
 
 <p>
