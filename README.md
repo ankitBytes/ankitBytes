@@ -78,6 +78,8 @@ I'm usually open to networking and collaborating on thrilling projects. Feel fre
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=300 align="center" src="https://stats.dooboo.io/api/github-stats-advanced?login=ankitBytes" />
 </a>
+
+![Snake animation](https://github.com/ankitBytes/ankitBytes/blob/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/ankitBytes/convoychat">
   <img height=200 align="center" src="https://stats.dooboo.io/api/github-trophies?login=ankitBytes" />
 </a>
