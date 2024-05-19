@@ -6,33 +6,35 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Check out the repository
       - uses: actions/checkout@v2
 
-      # Generates the snake  
+      # Generate the snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ankitBytes  # Change to your GitHub username
+          github_user_name: ankitBytes
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # show the status of the build. Makes it easier for debugging (if there's any issues).
+      # Check the status of the repository
       - run: git status
 
-      # Push the changes to the output branch
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          branch: output  # Push to the output branch
-          force: true
+      # Commit and push the changes
+      - name: Commit and Push changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       # Publish to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
