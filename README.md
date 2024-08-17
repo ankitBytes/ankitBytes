@@ -37,11 +37,11 @@ As a committed and enthusiastic full-stack internet developer, I even have honed
 
 I am properly-versed in a range of technologies and equipment, consisting of:
 
-->Front-give up: HTML, CSS, JavaScript, React.Js
-->Back-end: Node.Js, Express.Js
-->Databases: MongoDB, SQL
-->Version Control: Git
-->Problem Solving: Data Structures & Algorithms
+->Front-end: HTML, CSS, JavaScript, React.Js<br />
+->Back-end: Node.Js, Express.Js<br />
+->Databases: MongoDB, SQL<br />
+->Version Control: Git<br />
+->Problem Solving: Data Structures & Algorithms<br />
 📚 Academic Pursuits 📚
 
 While I thrive inside the rapid-paced world of internet improvement, I am also dedicated to my educational journey. My BTech software at SIT BBSR has ready me with a robust basis in computer science and engineering principles. 📖
