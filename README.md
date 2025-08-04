@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<h2>A passionate Computer Science final year student at Silicon University.</h2>
+<h2>Programming Developer @Inofinity Research and Developement Pvt Ltd</h2>
 <hr />
 
 <p>
-  🚀 Ankit Kumar Sahu - Aspiring Engineer & Full-Stack Web Developer
+  🚀 Ankit Kumar Sahu - Software Developer
 
-👨‍🎓 Pursuing a Bachelor of Technology (BTech) degree at SIT, I am obsessed on engineering and web development. 🌐
+👨‍🎓 Completed my Bachelor of Technology (BTech) degree at SIT, I am obsessed on engineering and web development. 🌐
 
 💼 Freelance Full-Stack Web Developer 💼
+
+Programming Developer at Inofinity Research and Developement Pvt Ltd
 
 As a committed and enthusiastic full-stack internet developer, I even have honed my talents in growing dynamic and user-pleasant websites. 💻 My freelance adventure has not only allowed me to use school room understanding in actual-global projects however also provided me with the possibility to collaborate with clients from numerous industries. 🌟
 
